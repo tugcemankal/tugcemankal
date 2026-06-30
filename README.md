@@ -15,7 +15,7 @@
 ### 🌌 Benim Dünyama Hoş Geldiniz!
 Bir **Bilgisayar Mühendisi** olarak kod yazmayı sadece problemleri çözmek için değil, aynı zamanda dijital bir **sanat** yaratmak için kullanıyorum. Alt katman ağ (Network) algoritmalarından yapay zeka destekli IoT sistemlerine ve modern web uygulamalarına kadar yazılımın her alanına dokunmayı çok seviyorum! 💜✨
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+<img align="right" src="http://store.donanimhaber.com/b4/74/dd/b474ddba5595ba07c8741c5c6c77090d.gif" width="200" />
 
 - 🔭 **Şu an ne yapıyorum:** Ağ haberleşme simülasyonları, Blokzincir, IoT ve Full-Stack web platformları geliştiriyorum.
 - 🌱 **İlgi Alanlarım:** Ağ (Network) Mimarileri, Görüntü İşleme (VLM), Akıllı Kontratlar (Solidity) ve UI/UX tasarımı.
