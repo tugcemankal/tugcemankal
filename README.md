@@ -31,114 +31,114 @@ As a **Computer Engineer**, I use coding not just to solve problems, but also to
 <summary><b>🇬🇧 Click here to view my English CV</b></summary>
 <br>
 
-**TUĞÇE MANKAL**[cite: 2]
-* Antalya, Türkiye | +905051558424 | tugce.mankal18@gmail.com[cite: 2]
-* github.com/tugcemankal | linkedin.com/in/tuğçe-mankal[cite: 2]
+**TUĞÇE MANKAL**
+* Antalya, Türkiye | +905051558424 | tugce.mankal18@gmail.com
+* github.com/tugcemankal | linkedin.com/in/tuğçe-mankal
 
-**EDUCATION**[cite: 2]
-* **BURDUR MEHMET AKİF ERSOY UNIVERSITY (MAKÜ)**, Burdur, Türkiye[cite: 2]
-  * Computer Engineering Bachelor's Program[cite: 2]
-  * GPA: 2.90/4.0 | September 2023 - June 2027 (Expected)[cite: 2]
-* **SERIK SCIENCE HIGH SCHOOL**, Antalya, Türkiye[cite: 2]
-  * September 2018 - June 2022[cite: 2]
-* **Relevant Courses:** Data Structures and Algorithms, Object-Oriented Programming, Software Engineering, Database Management Systems, Computer Networks, Introduction to Information Security, Introduction to Artificial Intelligence, Introduction to Data Mining, Microprocessors, Circuit Theory, Digital System Design[cite: 2].
+**EDUCATION**
+* **BURDUR MEHMET AKİF ERSOY UNIVERSITY (MAKÜ)**, Burdur, Türkiye
+  * Computer Engineering Bachelor's Program
+  * GPA: 2.90/4.0 | September 2023 - June 2027 (Expected)
+* **SERIK SCIENCE HIGH SCHOOL**, Antalya, Türkiye
+  * September 2018 - June 2022
+* **Relevant Courses:** Data Structures and Algorithms, Object-Oriented Programming, Software Engineering, Database Management Systems, Computer Networks, Introduction to Information Security, Introduction to Artificial Intelligence, Introduction to Data Mining, Microprocessors, Circuit Theory, Digital System Design.
 
-**ABOUT ME**[cite: 2]
-I am an engineering candidate continuing my undergraduate education in the Computer Engineering department at Burdur Mehmet Akif Ersoy University[cite: 2]. I am developing applied projects in the fields of computer networks, artificial intelligence, embedded systems, and blockchain technologies[cite: 2]. I have gained experience in Java Socket programming, Python-based simulations, Cisco Packet Tracer network designs, VLM-based medical image classification, and smart contract development with Solidity[cite: 2]. I aim to improve myself especially in the areas of network protocols, data security, network optimization, and artificial intelligence applications[cite: 2].
+**ABOUT ME**
+I am an engineering candidate continuing my undergraduate education in the Computer Engineering department at Burdur Mehmet Akif Ersoy University. I am developing applied projects in the fields of computer networks, artificial intelligence, embedded systems, and blockchain technologies. I have gained experience in Java Socket programming, Python-based simulations, Cisco Packet Tracer network designs, VLM-based medical image classification, and smart contract development with Solidity. I aim to improve myself especially in the areas of network protocols, data security, network optimization, and artificial intelligence applications.
 
-**TECHNICAL PROJECTS**[cite: 2]
-* **Smart Gateway Buffer Overflow Analyzer** (May 2026)[cite: 2]
-  * Developed a system that models the accumulation and hardware buffer overflow probabilities of telemetry packets coming from asynchronous IoT sensors on the gateway, using the principles of Poisson Distribution and Queueing Theory[cite: 2].
-  * In the modern interface designed using Python and PyQt5, the packet arrival density was visualized with Matplotlib integration; a backend architecture was constructed that dynamically analyzes packet loss regions caused by capacity exceedance and includes high-precision mathematical calculations[cite: 2].
-* **Physical Layer Signal Coding and Delay Analysis** (May 2026)[cite: 2]
-  * Modeled signal transformations of binary data sequences using NRZ-L and Manchester line coding techniques with Python[cite: 2].
-  * Calculated transmission and propagation delays on the network over bit rate (bps) and cable length parameters[cite: 2].
-* **IPv4 Router Simulator** (May 2026)[cite: 2]
-  * Wrote a router simulating IPv4 packet parsing, routing table, and forwarding decision algorithms using Java[cite: 2].
-* **HDLC Data Link Layer Framing and Error Checking** (May 2026)[cite: 2]
-  * Wrote an HDLC simulation that performs CRC error checking, bit stuffing, and flag control operations using Python[cite: 2].
-* **Blockchain Based Secure Voting System** (April 2026)[cite: 2]
-  * Developed a manipulation-proof, transparent, and distributed voting infrastructure using Solidity and smart contracts[cite: 2].
-  * Secured the votes with cryptographic algorithms, ensuring data integrity on the network[cite: 2].
-* **TCP/UDP Based Client-Server Network Communication Tool** (April 2026 - May 2026)[cite: 2]
-  * Designed a multi-agent communication and file transfer system with a graphical user interface (GUI), developed using Java Socket programming[cite: 2].
-  * Integrated CRC32 error checking protocols into the system to ensure integrity in data transmission and to catch errors[cite: 2].
-* **Comprehensive Network Topology Design and Implementation** (March 2026 - May 2026)[cite: 2]
-  * Constructed complex network structures including Bus, Ring, Mesh, and Star topologies with LAN and WLAN integration in the Cisco Packet Tracer environment[cite: 2].
-  * Ensured packet and message exchange between devices; completed configurations on network security and IoT device integration[cite: 2].
-* **Arduino Based Embedded System Projects** (December 2025)[cite: 2]
-  * Prototyped smart parking sensor and radar systems that perform obstacle detection and distance measurement[cite: 2].
-  * Developed automatic barrier system control algorithms using servo motors and sensors[cite: 2].
-* **Medical Image Classification of Eye Diseases with VLM** (November 2025)[cite: 2]
-  * Conducted comparative analyses on datasets containing human eye diseases using Vision-Language models such as CLIP, MedCLIP, and BioMedCLIP[cite: 2].
-  * Performed performance evaluation over diagnostic success and F1 scores of the models by applying Zero-shot, Few-shot, and Fine Tuning learning techniques[cite: 2].
+**TECHNICAL PROJECTS**
+* **Smart Gateway Buffer Overflow Analyzer** (May 2026)
+  * Developed a system that models the accumulation and hardware buffer overflow probabilities of telemetry packets coming from asynchronous IoT sensors on the gateway, using the principles of Poisson Distribution and Queueing Theory.
+  * In the modern interface designed using Python and PyQt5, the packet arrival density was visualized with Matplotlib integration; a backend architecture was constructed that dynamically analyzes packet loss regions caused by capacity exceedance and includes high-precision mathematical calculations.
+* **Physical Layer Signal Coding and Delay Analysis** (May 2026)
+  * Modeled signal transformations of binary data sequences using NRZ-L and Manchester line coding techniques with Python.
+  * Calculated transmission and propagation delays on the network over bit rate (bps) and cable length parameters.
+* **IPv4 Router Simulator** (May 2026)
+  * Wrote a router simulating IPv4 packet parsing, routing table, and forwarding decision algorithms using Java.
+* **HDLC Data Link Layer Framing and Error Checking** (May 2026)
+  * Wrote an HDLC simulation that performs CRC error checking, bit stuffing, and flag control operations using Python.
+* **Blockchain Based Secure Voting System** (April 2026)
+  * Developed a manipulation-proof, transparent, and distributed voting infrastructure using Solidity and smart contracts.
+  * Secured the votes with cryptographic algorithms, ensuring data integrity on the network.
+* **TCP/UDP Based Client-Server Network Communication Tool** (April 2026 - May 2026)
+  * Designed a multi-agent communication and file transfer system with a graphical user interface (GUI), developed using Java Socket programming.
+  * Integrated CRC32 error checking protocols into the system to ensure integrity in data transmission and to catch errors.
+* **Comprehensive Network Topology Design and Implementation** (March 2026 - May 2026)
+  * Constructed complex network structures including Bus, Ring, Mesh, and Star topologies with LAN and WLAN integration in the Cisco Packet Tracer environment.
+  * Ensured packet and message exchange between devices; completed configurations on network security and IoT device integration.
+* **Arduino Based Embedded System Projects** (December 2025)
+  * Prototyped smart parking sensor and radar systems that perform obstacle detection and distance measurement.
+  * Developed automatic barrier system control algorithms using servo motors and sensors.
+* **Medical Image Classification of Eye Diseases with VLM** (November 2025)
+  * Conducted comparative analyses on datasets containing human eye diseases using Vision-Language models such as CLIP, MedCLIP, and BioMedCLIP.
+  * Performed performance evaluation over diagnostic success and F1 scores of the models by applying Zero-shot, Few-shot, and Fine Tuning learning techniques.
 
-**TECHNICAL SKILLS**[cite: 2]
-* **Software:** Python, Java, C, C++, Solidity, Git, PyQt5, Matplotlib, Software Design Patterns[cite: 2].
-* **Network and Communication:** TCP/UDP Socket Programming, IPv4 Routing, HDLC, NRZ-L/Manchester Coding, CRC, Cisco Packet Tracer, LAN/WLAN[cite: 2].
-* **Artificial Intelligence and Data Science:** CLIP, MedCLIP, BioMedCLIP, Zero/Few-shot & Fine-Tuning, Image Processing, Poisson Distribution and Queueing Theory[cite: 2].
-* **Embedded System and Blockchain:** Arduino IDE, Sensor and Motor Integration, Smart Contracts, Cryptographic Algorithms[cite: 2].
-* **Web Programming:** HTML, CSS, JavaScript[cite: 2].
+**TECHNICAL SKILLS**
+* **Software:** Python, Java, C, C++, Solidity, Git, PyQt5, Matplotlib, Software Design Patterns.
+* **Network and Communication:** TCP/UDP Socket Programming, IPv4 Routing, HDLC, NRZ-L/Manchester Coding, CRC, Cisco Packet Tracer, LAN/WLAN.
+* **Artificial Intelligence and Data Science:** CLIP, MedCLIP, BioMedCLIP, Zero/Few-shot & Fine-Tuning, Image Processing, Poisson Distribution and Queueing Theory.
+* **Embedded System and Blockchain:** Arduino IDE, Sensor and Motor Integration, Smart Contracts, Cryptographic Algorithms.
+* **Web Programming:** HTML, CSS, JavaScript.
 
-**LANGUAGES**[cite: 2]
-* Turkish (Native), English (Proficient in Technical Literature)[cite: 2].
+**LANGUAGES**
+* Turkish (Native), English (Proficient in Technical Literature).
 </details>
 
 <details>
 <summary><b>🇹🇷 Türkçe CV'mi görüntülemek için buraya tıklayın</b></summary>
 <br>
 
-**TUĞÇE MANKAL**[cite: 2]
-* Antalya, Türkiye | +905051558424 | tugce.mankal18@gmail.com[cite: 2]
-* github.com/tugcemankal | linkedin.com/in/tuğçe-mankal[cite: 2]
+**TUĞÇE MANKAL**
+* Antalya, Türkiye | +905051558424 | tugce.mankal18@gmail.com
+* github.com/tugcemankal | linkedin.com/in/tuğçe-mankal
 
-**EĞİTİM**[cite: 2]
-* **BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ (MAKÜ)**, Burdur, Türkiye[cite: 2]
-  * Bilgisayar Mühendisliği Lisans Programı[cite: 2]
-  * GNO: 2,90/4.0 | Eylül 2023 - Haziran 2027 (Beklenen)[cite: 2]
-* **SERİK FEN LİSESİ**, Antalya, Türkiye[cite: 2]
-  * Eylül 2018 - Haziran 2022[cite: 2]
-* **İlgili Dersler:** Veri Yapıları ve Algoritmalar, Nesneye Dayalı Programlama, Yazılım Mühendisliği, Veri Tabanı Yönetim Sistemleri, Bilgisayar Ağları, Bilgi Güvenliğine Giriş, Yapay Zekaya Giriş, Veri Madenciliğine Giriş, Mikroişlemciler, Devre Teorisi, Sayısal Sistem Tasarımı[cite: 2].
+**EĞİTİM**
+* **BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ (MAKÜ)**, Burdur, Türkiye
+  * Bilgisayar Mühendisliği Lisans Programı
+  * GNO: 2,90/4.0 | Eylül 2023 - Haziran 2027 (Beklenen)
+* **SERİK FEN LİSESİ**, Antalya, Türkiye
+  * Eylül 2018 - Haziran 2022
+* **İlgili Dersler:** Veri Yapıları ve Algoritmalar, Nesneye Dayalı Programlama, Yazılım Mühendisliği, Veri Tabanı Yönetim Sistemleri, Bilgisayar Ağları, Bilgi Güvenliğine Giriş, Yapay Zekaya Giriş, Veri Madenciliğine Giriş, Mikroişlemciler, Devre Teorisi, Sayısal Sistem Tasarımı.
 
-**HAKKIMDA**[cite: 2]
-Burdur Mehmet Akif Ersoy Üniversitesi Bilgisayar Mühendisliği bölümünde lisans eğitimime devam eden bir mühendis adayıyım[cite: 2]. Bilgisayar ağları, yapay zekâ, gömülü sistemler ve blokzincir teknolojileri alanlarında uygulamalı projeler geliştirmekteyim[cite: 2]. Java Socket programlama, Python tabanlı simülasyonlar, Cisco Packet Tracer ağ tasarımları, VLM tabanlı medikal görüntü sınıflandırma ve Solidity ile akıllı kontrat geliştirme konularında deneyim kazandım[cite: 2]. Özellikle ağ protokolleri, veri güvenliği, ağ optimizasyonu ve yapay zekâ uygulamaları alanlarında kendimi geliştirmeyi hedefliyorum[cite: 2].
+**HAKKIMDA**
+Burdur Mehmet Akif Ersoy Üniversitesi Bilgisayar Mühendisliği bölümünde lisans eğitimime devam eden bir mühendis adayıyım. Bilgisayar ağları, yapay zekâ, gömülü sistemler ve blokzincir teknolojileri alanlarında uygulamalı projeler geliştirmekteyim. Java Socket programlama, Python tabanlı simülasyonlar, Cisco Packet Tracer ağ tasarımları, VLM tabanlı medikal görüntü sınıflandırma ve Solidity ile akıllı kontrat geliştirme konularında deneyim kazandım. Özellikle ağ protokolleri, veri güvenliği, ağ optimizasyonu ve yapay zekâ uygulamaları alanlarında kendimi geliştirmeyi hedefliyorum.
 
-**TEKNİK PROJELER**[cite: 2]
-* **Akıllı Ağ Geçidi (Smart Gateway) Buffer Taşma Analizörü** (Mayıs 2026)[cite: 2]
-  * Asenkron IoT sensörlerinden gelen telemetri paketlerinin ağ geçidi üzerindeki yığılma ve donanımsal arabellek (buffer) taşma olasılıklarını, Poisson Dağılımı ve Kuyruk Teorisi (Queueing Theory) prensipleriyle modelleyen bir sistem geliştirildi[cite: 2].
-  * Python ve PyQt5 kullanılarak tasarlanan modern arayüzde, Matplotlib entegrasyonu ile paket geliş yoğunluğu görselleştirildi; kapasite aşımından kaynaklı paket kaybı bölgelerini dinamik olarak analiz eden ve yüksek hassasiyetli matematiksel hesaplamalar içeren bir backend mimarisi kurgulandı[cite: 2].
-* **Fiziksel Katman Sinyal Kodlama ve Gecikme Analizi** (Mayıs 2026)[cite: 2]
-  * Python ile NRZ-L ve Manchester hat kodlama (line coding) teknikleri kullanılarak ikili (binary) veri dizilerinin sinyal dönüşümleri modellendi[cite: 2].
-  * Bit hızı (bps) ve kablo uzunluğu parametreleri üzerinden ağ üzerindeki iletim (transmission) ve yayılım(propagation) gecikmeleri hesaplandı[cite: 2].
-* **IPv4 Yönlendirici (Router) Simülatörü** (Mayıs 2026)[cite: 2]
-  * Java kullanılarak IPv4 paket ayrıştırma (parsing), yönlendirme tablosu ve iletme kararı (forwarding decision) algoritmalarını simüle eden bir yönlendirici yazıldı[cite: 2].
-* **HDLC Veri Bağı Katmanı Çerçeveleme ve Hata Denetimi** (Mayıs 2026)[cite: 2]
-  * Python kullanılarak CRC hata denetimi, bit doldurma (bit stuffing) ve bayrak (flag) kontrolü işlemlerini gerçekleştiren bir HDLC simülasyonu yazıldı[cite: 2].
-* **Blokzincir (Blockchain) Tabanlı Güvenli Oylama Sistemi** (Nisan 2026)[cite: 2]
-  * Solidity ve akıllı kontratlar (smart contracts) kullanılarak manipülasyona kapalı, şeffaf ve dağıtık bir oylama altyapısı geliştirildi[cite: 2].
-  * Oyların güvenliği kriptografik algoritmalarla sağlanarak ağ üzerindeki veri bütünlüğü güvence altına alındı[cite: 2].
-* **TCP/UDP Tabanlı İstemci-Sunucu Ağ Haberleşme Aracı** (Nisan 2026 - Mayıs 2026)[cite: 2]
-  * Java Socket programlama kullanılarak geliştirilmiş, grafik kullanıcı arayüzüne (GUI) sahip çoklu-ajan haberleşme ve dosya transfer sistemi tasarlandı[cite: 2].
-  * Veri iletimindeki bütünlüğü sağlamak ve hataları yakalamak için CRC32 (Cyclic Redundancy Check) hata denetimi protokolleri sisteme entegre edildi[cite: 2].
-* **Kapsamlı Ağ Topolojisi Tasarımı ve Uygulaması** (Mart 2026 - Mayıs 2026)[cite: 2]
-  * Cisco Packet Tracer ortamında LAN ve WLAN entegrasyonuyla Bus, Ring, Mesh ve Star topolojilerini içeren karmaşık ağ yapıları kurgulandı[cite: 2].
-  * Cihazlar arası paket ve mesaj alışverişi sağlandı; ağ güvenliği ve IoT cihaz entegrasyonu üzerine konfigürasyonlar tamamlandı[cite: 2].
-* **Arduino Tabanlı Gömülü Sistem Projeleri** (Aralık 2025)[cite: 2]
-  * Engel algılama ve mesafe ölçümü yapan akıllı park sensörü ve radar sistemleri prototiplendi[cite: 2].
-  * Servo motorlar ve sensörler kullanılarak otomatik bariyer sistemi kontrol algoritmaları geliştirildi[cite: 2].
-* **VLM ile Göz Hastalıkları Medikal Görüntü Sınıflandırma** (Kasım 2025)[cite: 2]
-  * CLIP, MedCLIP ve BioMedCLIP gibi Vision-Language modellerini kullanarak insan gözü hastalıklarını içeren veri setleri üzerinde karşılaştırmalı analizler gerçekleştirildi[cite: 2].
-  * Zero-shot, Few-shot ve Fine Tuning öğrenme teknikleri uygulanarak modellerin teşhis başarısı ve F1 skorları üzerinden performans değerlendirmesi yapıldı[cite: 2].
+**TEKNİK PROJELER**
+* **Akıllı Ağ Geçidi (Smart Gateway) Buffer Taşma Analizörü** (Mayıs 2026)
+  * Asenkron IoT sensörlerinden gelen telemetri paketlerinin ağ geçidi üzerindeki yığılma ve donanımsal arabellek (buffer) taşma olasılıklarını, Poisson Dağılımı ve Kuyruk Teorisi (Queueing Theory) prensipleriyle modelleyen bir sistem geliştirildi.
+  * Python ve PyQt5 kullanılarak tasarlanan modern arayüzde, Matplotlib entegrasyonu ile paket geliş yoğunluğu görselleştirildi; kapasite aşımından kaynaklı paket kaybı bölgelerini dinamik olarak analiz eden ve yüksek hassasiyetli matematiksel hesaplamalar içeren bir backend mimarisi kurgulandı.
+* **Fiziksel Katman Sinyal Kodlama ve Gecikme Analizi** (Mayıs 2026)
+  * Python ile NRZ-L ve Manchester hat kodlama (line coding) teknikleri kullanılarak ikili (binary) veri dizilerinin sinyal dönüşümleri modellendi.
+  * Bit hızı (bps) ve kablo uzunluğu parametreleri üzerinden ağ üzerindeki iletim (transmission) ve yayılım(propagation) gecikmeleri hesaplandı.
+* **IPv4 Yönlendirici (Router) Simülatörü** (Mayıs 2026)
+  * Java kullanılarak IPv4 paket ayrıştırma (parsing), yönlendirme tablosu ve iletme kararı (forwarding decision) algoritmalarını simüle eden bir yönlendirici yazıldı.
+* **HDLC Veri Bağı Katmanı Çerçeveleme ve Hata Denetimi** (Mayıs 2026)
+  * Python kullanılarak CRC hata denetimi, bit doldurma (bit stuffing) ve bayrak (flag) kontrolü işlemlerini gerçekleştiren bir HDLC simülasyonu yazıldı.
+* **Blokzincir (Blockchain) Tabanlı Güvenli Oylama Sistemi** (Nisan 2026)
+  * Solidity ve akıllı kontratlar (smart contracts) kullanılarak manipülasyona kapalı, şeffaf ve dağıtık bir oylama altyapısı geliştirildi.
+  * Oyların güvenliği kriptografik algoritmalarla sağlanarak ağ üzerindeki veri bütünlüğü güvence altına alındı.
+* **TCP/UDP Tabanlı İstemci-Sunucu Ağ Haberleşme Aracı** (Nisan 2026 - Mayıs 2026)
+  * Java Socket programlama kullanılarak geliştirilmiş, grafik kullanıcı arayüzüne (GUI) sahip çoklu-ajan haberleşme ve dosya transfer sistemi tasarlandı.
+  * Veri iletimindeki bütünlüğü sağlamak ve hataları yakalamak için CRC32 (Cyclic Redundancy Check) hata denetimi protokolleri sisteme entegre edildi.
+* **Kapsamlı Ağ Topolojisi Tasarımı ve Uygulaması** (Mart 2026 - Mayıs 2026)
+  * Cisco Packet Tracer ortamında LAN ve WLAN entegrasyonuyla Bus, Ring, Mesh ve Star topolojilerini içeren karmaşık ağ yapıları kurgulandı.
+  * Cihazlar arası paket ve mesaj alışverişi sağlandı; ağ güvenliği ve IoT cihaz entegrasyonu üzerine konfigürasyonlar tamamlandı.
+* **Arduino Tabanlı Gömülü Sistem Projeleri** (Aralık 2025)
+  * Engel algılama ve mesafe ölçümü yapan akıllı park sensörü ve radar sistemleri prototiplendi.
+  * Servo motorlar ve sensörler kullanılarak otomatik bariyer sistemi kontrol algoritmaları geliştirildi.
+* **VLM ile Göz Hastalıkları Medikal Görüntü Sınıflandırma** (Kasım 2025)
+  * CLIP, MedCLIP ve BioMedCLIP gibi Vision-Language modellerini kullanarak insan gözü hastalıklarını içeren veri setleri üzerinde karşılaştırmalı analizler gerçekleştirildi.
+  * Zero-shot, Few-shot ve Fine Tuning öğrenme teknikleri uygulanarak modellerin teşhis başarısı ve F1 skorları üzerinden performans değerlendirmesi yapıldı.
 
-**TEKNİK YETKİNLİKLER**[cite: 2]
-* **Yazılım:** Python, Java, C, C++, Solidity, Git, PyQt5, Matplotlib, Yazılım Tasarım Kalıpları[cite: 2].
-* **Ağ ve İletişim:** TCP/UDP Socket Programlama, IPv4 Routing, HDLC, NRZ-L/Manchester Kodlama, CRC, Cisco Packet Tracer, LAN/WLAN[cite: 2].
-* **Yapay Zekâ ve Veri Bilimi:** CLIP, MedCLIP, BioMedCLIP, Zero/Few-shot & Fine-Tuning, Görüntü İşleme, Poisson Dağılımı ve Kuyruk Teorisi[cite: 2].
-* **Gömülü Sistem ve Blokzincir:** Arduino IDE, Sensör ve Motor Entegrasyonu, Akıllı Kontratlar (Smart Contracts), Kriptografik Algoritmalar[cite: 2].
-* **Web Programlama:** HTML, CSS, JavaScript[cite: 2].
+**TEKNİK YETKİNLİKLER**
+* **Yazılım:** Python, Java, C, C++, Solidity, Git, PyQt5, Matplotlib, Yazılım Tasarım Kalıpları.
+* **Ağ ve İletişim:** TCP/UDP Socket Programlama, IPv4 Routing, HDLC, NRZ-L/Manchester Kodlama, CRC, Cisco Packet Tracer, LAN/WLAN.
+* **Yapay Zekâ ve Veri Bilimi:** CLIP, MedCLIP, BioMedCLIP, Zero/Few-shot & Fine-Tuning, Görüntü İşleme, Poisson Dağılımı ve Kuyruk Teorisi.
+* **Gömülü Sistem ve Blokzincir:** Arduino IDE, Sensör ve Motor Entegrasyonu, Akıllı Kontratlar (Smart Contracts), Kriptografik Algoritmalar.
+* **Web Programlama:** HTML, CSS, JavaScript.
 
-**DİLLER**[cite: 2]
-* Türkçe (Anadil), İngilizce (Teknik Literatüre Hakim)[cite: 2].
+**DİLLER**
+* Türkçe (Anadil), İngilizce (Teknik Literatüre Hakim).
 </details>
 
 <br/>
