@@ -6,46 +6,56 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" />
   <br/>
   <a href="https://github.com/tugcemankal">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Bilgisayar+M%C3%BChendisi+%F0%9F%92%BB;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%F0%9F%9A%80;Kodlarla+Sihir+Yapan+Biri+%E2%9C%A8;S%C3%BCrekli+%C3%96%C4%9Freniyor...%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Bilgisayar+M%C3%BChendisi+%F0%9F%92%BB;A%C4%9F+Sistemleri+ve+Yapay+Zeka+%F0%9F%A4%96;Full-Stack+Geli%C5%9Ftirici+%E2%9C%A8;S%C3%BCrekli+%C3%96%C4%9Freniyor...%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
 ### 🌸 Benim Dünyama Hoş Geldiniz!
-Bir **Bilgisayar Mühendisi** olarak kod yazmayı sadece problemleri çözmek için değil, aynı zamanda dijital bir **sanat** yaratmak için kullanıyorum. Algoritmalar, veri tabanları, sistem mimarileri ve kullanıcı deneyimi... Yazılımın her alanına dokunmayı ve üretmeyi çok seviyorum! 💜
+Bir **Bilgisayar Mühendisi** olarak kod yazmayı sadece problemleri çözmek için değil, aynı zamanda dijital bir **sanat** yaratmak için kullanıyorum. Alt katman ağ (Network) algoritmalarından yapay zeka destekli IoT sistemlerine ve modern web uygulamalarına kadar yazılımın her alanına dokunmayı çok seviyorum! 💜
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
-- 🔭 **Şu an ne yapıyorum:** Kapsamlı web platformları ve çeşitli mühendislik projeleri geliştiriyorum.
-- 🌱 **Şu an ne öğreniyorum:** Modern yazılım mimarileri, Backend teknolojileri ve yaratıcı UI/UX konseptleri.
+- 🔭 **Şu an ne yapıyorum:** Ağ haberleşme simülasyonları, Blokzincir, IoT ve Full-Stack web platformları geliştiriyorum.
+- 🌱 **İlgi Alanlarım:** Ağ (Network) Mimarileri, Görüntü İşleme (VLM), Akıllı Kontratlar (Solidity) ve UI/UX tasarımı.
 - 👯 **Ne arıyorum:** Beraber harika fikirler üretebileceğimiz açık kaynak kodlu projeler ve takım arkadaşları!
-- 🎨 **Gizli yeteneğim:** Karmaşık bir algoritmayı, son kullanıcının bayılacağı şık ve tatlı bir uygulamaya dönüştürmek.
+- 🎨 **Gizli yeteneğim:** Karmaşık matematiksel teorileri (Kuyruk Teorisi, CRC, OSPF vb.) ve makine öğrenmesi modellerini harika çalışan şirin sistemlere dönüştürmek!
 - 💌 **Bana ulaşın:** <a href="mailto:tugce.mankal18@gmail.com">tugce.mankal18@gmail.com</a>
 
 <br/>
 
 ### 🎀 Geliştirici Çantam (Kullandığım Teknolojiler)
-Mühendislik eğitimim ve kendi projelerim boyunca yetenek setime kattığım bazı araçlar:
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,firebase,mysql,git,github,linux,vscode,figma&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,solidity,js,html,css,firebase,mysql,git,github,linux,vscode,figma&theme=light&perline=8" />
   </a>
 </div>
 
 ---
 
-### 🌟 Gurur Tablom & Projelerim
+### 🌟 Gurur Tablom & Öne Çıkan Projelerim
 
-**[💖 TYT Takip Platformu (Full-Stack Web)](https://github.com/tugcemankal/tyt-takip)**  
-Öğrenci ve yönetici için özel olarak tasarlanmış, **Firebase** ile anlık senkronize olan, **PWA** destekli muazzam bir çalışma takip sistemi. İçinde karanlık tema, konfeti patlamaları ve karmaşık görev algoritmaları bulunuyor! ✨
+**[💖 TYT Takip Platformu (PWA Web)](https://github.com/tugcemankal/tyt-takip)**  
+Öğrenci ve yönetici için özel olarak tasarlanmış, **Firebase** ile anlık senkronize olan muazzam bir çalışma takip sistemi. İçinde dark mode ve gelişmiş program algoritmaları bulunuyor.
 
-**[🤖 Diğer Mühendislik Projem (Buraya ismini yazın)](https://github.com/tugcemankal)**  
-*(Örneğin; Python, C veya Java ile geliştirdiğiniz okul projelerinden, veri tabanı veya masaüstü uygulamalarınızdan burada kısaca bahsedebilirsiniz.)*
+**[🚗 Akıllı Yol İzleme Sistemi (IoT & ML)](https://github.com/tugcemankal/akilli-yol-izleme-sistemi)**  
+D400 karayolu için geliştirilmiş, IoT sensör tabanlı WSN simülasyonu ve gerçek zamanlı **Makine Öğrenmesi (J48/Naive Bayes)** sınıflandırma sistemi içeren erken uyarı projesi. (Java)
 
-**[🚀 Backend/Sistem Projem (Buraya ismini yazın)](https://github.com/tugcemankal)**  
-*(Örneğin; yazdığınız bir API, siber güvenlik aracı veya tasarladığınız bir mimariden burada bahsedebilirsiniz.)*
+**[🔗 Blokzincir Tabanlı Güvenli Oylama Sistemi](https://github.com/tugcemankal/blokchain-tabanli-guvenli-oylama-sistemi)**  
+**Solidity** ve akıllı kontratlar kullanılarak manipülasyona kapalı, şeffaf ve dağıtık bir oylama altyapısı. Oyların güvenliği kriptografik algoritmalarla sağlandı.
+
+**[👁️ VLM ile Göz Hastalıkları Sınıflandırma](https://github.com/tugcemankal/vlm-ile-goz-hastaliklari-medikal-goruntu-siniflandirma)**  
+Tıbbi görüntülerin sınıflandırılması üzerine yapay zeka / bilgisayarlı görü (Computer Vision) destekli medikal görüntüleme projesi. (Python)
+
+**[🌐 Ağ Mimarisi ve Simülasyon Projeleri](https://github.com/tugcemankal)**  
+- **IPv4 Yönlendirici (Router):** Java ile IPv4 paket ayrıştırma ve yönlendirme algoritması.
+- **Akıllı Ağ Geçidi & Buffer Analizi:** Asenkron IoT telemetri paketlerinin Poisson Dağılımı ve Kuyruk Teorisi (Queueing Theory) ile analizi (Python).
+- **HDLC Veri Bağı Simülasyonu:** CRC hata denetimi ve bit doldurma işlemleri (Python).
+- **Fiziksel Katman Sinyal Kodlama:** NRZ-L ve Manchester hat kodlama teknikleri analizi.
+- **TCP/UDP Haberleşme:** Java Socket ile çoklu-ajan haberleşme ve dosya transferi.
+- **Kapsamlı Ağ Topolojisi:** Dinamik yönlendirme (OSPF) ve DHCP yapılandırılmış IoT entegreli Cisco Packet Tracer simülasyonu.
 
 ---
 
