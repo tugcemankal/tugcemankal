@@ -1,62 +1,54 @@
-# Tuğçe Mankal
-**Software Developer**
-
-A dedicated software developer with a strong focus on building scalable web applications and delivering exceptional user experiences. Passionate about writing clean, maintainable code and solving complex technical challenges.
-
----
-
-### 💼 Professional Summary
-
-- 💻 Actively developing robust web applications with **JavaScript, Python, and Firebase**.
-- 🚀 Experienced in creating **Progressive Web Apps (PWAs)** and real-time synchronized platforms.
-- ⚙️ Strong advocate for clean architecture, responsive design, and performance optimization.
-- 🎓 Continuously expanding knowledge in modern frontend frameworks and backend infrastructure.
-
----
-
-### 🛠 Technical Arsenal
-
-**Core Technologies**
-<br>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**Architecture & Tools**
-<br>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-
----
-
-### 📌 Featured Work
-
-**[TYT Tracking Platform](https://github.com/tugcemankal/tyt-takip)**
-A role-based, real-time synchronized Progressive Web Application designed for educational tracking.
-* **Tech:** Vanilla JS, Firebase Realtime Database, Netlify, Service Workers.
-* **Architecture:** Dual-role architecture (Admin/Student), offline capabilities, dynamic algorithm for schedule allocation, and responsive glassmorphism UI.
-
----
-
-### 📈 GitHub Metrics
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=200&section=header&text=Merhaba!%20%F0%9F%8C%B8&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Ben%20Tu%C4%9F%C3%A7e%20%7C%20Frontend%20Geli%C5%9Ftirici&descAlignY=65&descAlign=50" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tugcemankal&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugcemankal&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Streak" width="48%" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" />
+  <br/>
+  <a href="https://github.com/tugcemankal">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Frontend+Geli%C5%9Ftirici+%F0%9F%92%BB;UI%2FUX+Tasar%C4%B1m+A%C5%9F%C4%B1%C4%9F%C4%B1+%F0%9F%8E%A8;Kodlarla+Sihir+Yapan+Biri+%E2%9C%A8;S%C3%BCrekli+%C3%96%C4%9Freniyor...%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 📫 Contact
+### 🌸 Benim Dünyama Hoş Geldiniz!
+Kod yazmayı sadece bir iş olarak değil, bir **sanat** olarak görüyorum. Renklerle, pürüzsüz animasyonlarla ve kullanıcıyı gülümseten küçük detaylarla dolu uygulamalar geliştirmek en büyük tutkum! (Özellikle PWA'lar ve modern arayüzler favorim 💜)
 
-<a href="mailto:tugce.mankal18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<!-- LinkedIn kullanıyorsanız aşağıdaki kodun başındaki ve sonundaki okları silerek aktif edebilirsiniz:
-<a href="https://linkedin.com/in/tugcemankal">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
--->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+
+- 🔭 **Şu an ne yapıyorum:** Kapsamlı ve interaktif eğitim takip platformları geliştiriyorum.
+- 🌱 **Şu an ne öğreniyorum:** Modern JavaScript frameworkleri ve yaratıcı UI/UX konseptleri.
+- 👯 **Ne arıyorum:** Beraber harika fikirler üretebileceğimiz açık kaynak kodlu projeler.
+- 🎨 **Gizli yeteneğim:** Sıkıcı bir tasarımı, küçük dokunuşlarla "Vay canına!" dedirtecek hale getirmek.
+- 💌 **Bana ulaşın:** <a href="mailto:tugce.mankal18@gmail.com">tugce.mankal18@gmail.com</a>
+
+<br/>
+
+### 🎀 Geliştirici Çantam (Kullandığım Teknolojiler)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode,figma,netlify&theme=light&perline=5" />
+  </a>
+</div>
+
+---
+
+### 🌟 Gurur Tablom & Projelerim
+
+**[💖 TYT Takip Platformu](https://github.com/tugcemankal/tyt-takip)**  
+Öğrenci ve yönetici için özel olarak tasarlanmış, **Firebase** ile anlık senkronize olan, **PWA** destekli muazzam bir çalışma takip sistemi. İçinde karanlık tema (dark mode), konfeti patlamaları ve "glassmorphism" detaylar bulunuyor! ✨
+
+---
+
+### 📊 Github İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tugcemankal&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF2F2&title_color=FF6B6B&icon_color=F472B6&text_color=5D5D5D" alt="Tuğçe's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugcemankal&theme=buefy&hide_border=true&background=FFF2F2&title_color=FF6B6B&icon_color=F472B6&text_color=5D5D5D" alt="Tuğçe's GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=tugcemankal&color=ffb6c1&style=flat-square&label=Profilime+Bakan+Tatlı+İnsanlar" alt="Ziyaretçi Sayacı" />
+</div>
