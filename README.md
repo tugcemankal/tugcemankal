@@ -1,72 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Merhaba!%20%E2%9C%A8&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Ben%20Tu%C4%9F%C3%A7e%20%7C%20Bilgisayar%20M%C3%BChendisi&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Hello!%20%E2%9C%A8&fontSize=50&fontColor=ffffff&animation=twinkling&desc=I'm%20Tu%C4%9F%C3%A7e%20%7C%20Computer%20Engineer&descAlignY=65&descAlign=50" />
 </div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" />
   <br/>
   <a href="https://github.com/tugcemankal">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Bilgisayar+M%C3%BChendisi+%F0%9F%92%BB;A%C4%9F+Sistemleri+ve+Yapay+Zeka+%F0%9F%A4%96;Full-Stack+Geli%C5%9Ftirici+%E2%9C%A8;S%C3%BCrekli+%C3%96%C4%9Freniyor...%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Computer+Engineer+%F0%9F%92%BB;Network+Systems+%26+Artificial+Intelligence+%F0%9F%A4%96;Full-Stack+Developer+%E2%9C%A8;Always+Learning...%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </div>
-
 ---
-
-### 🌌 Benim Dünyama Hoş Geldiniz!
-Bir **Bilgisayar Mühendisi** olarak kod yazmayı sadece problemleri çözmek için değil, aynı zamanda dijital bir **sanat** yaratmak için kullanıyorum. Alt katman ağ (Network) algoritmalarından yapay zeka destekli IoT sistemlerine ve modern web uygulamalarına kadar yazılımın her alanına dokunmayı çok seviyorum! 💜✨
-
+### 🌌 Welcome to My World!
+As a **Computer Engineer**, I use code not just to solve problems, but also to create digital **art**. I love touching every aspect of software — from low-level network algorithms to AI-powered IoT systems and modern web applications! 💜✨
 <img align="right" src="http://store.donanimhaber.com/b4/74/dd/b474ddba5595ba07c8741c5c6c77090d.gif" width="200" />
-
-- 🔭 **Şu an ne yapıyorum:** Ağ haberleşme simülasyonları, Blokzincir, IoT ve Full-Stack web platformları geliştiriyorum.
-- 🌱 **İlgi Alanlarım:** Ağ (Network) Mimarileri, Görüntü İşleme (VLM), Akıllı Kontratlar (Solidity) ve UI/UX tasarımı.
-- 👯 **Ne arıyorum:** Beraber harika fikirler üretebileceğimiz açık kaynak kodlu projeler ve takım arkadaşları!
-- 🎨 **Gizli yeteneğim:** Karmaşık matematiksel teorileri (Kuyruk Teorisi, CRC, OSPF vb.) ve makine öğrenmesi modellerini harika çalışan şirin sistemlere dönüştürmek! 🌟
-- 💌 **Bana ulaşın:** <a href="mailto:tugce.mankal18@gmail.com">tugce.mankal18@gmail.com</a>
-
+- 🔭 **What I'm working on:** Network communication simulations, Blockchain, IoT, and Full-Stack web platforms.
+- 🌱 **Areas of Interest:** Network Architectures, Visual Language Models (VLM), Smart Contracts (Solidity), and UI/UX Design.
+- 👯 **What I'm looking for:** Open-source projects and teammates to create amazing ideas together!
+- 🎨 **Hidden talent:** Turning complex mathematical theories (Queuing Theory, CRC, OSPF, etc.) and machine learning models into beautifully working systems! 🌟
+- 💌 **Reach me at:** <a href="mailto:tugce.mankal18@gmail.com">tugce.mankal18@gmail.com</a>
 <br/>
-
-### 🛠️ Geliştirici Çantam (Kullandığım Teknolojiler)
-
+### 🛠️ My Developer Toolkit (Technologies I Use)
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,c,cpp,solidity,js,html,css,firebase,mysql,git,github,linux,vscode,figma&theme=light&perline=8" />
   </a>
 </div>
-
 ---
-
-### 🌟 Gurur Tablom & Öne Çıkan Projelerim
-
-**[💖 TYT Takip Platformu (PWA Web)](https://github.com/tugcemankal/tyt-takip)**  
-Öğrenci ve yönetici için özel olarak tasarlanmış, **Firebase** ile anlık senkronize olan muazzam bir çalışma takip sistemi. İçinde dark mode ve gelişmiş program algoritmaları bulunuyor.
-
-**[🚗 Akıllı Yol İzleme Sistemi (IoT & ML)](https://github.com/tugcemankal/akilli-yol-izleme-sistemi)**  
-D400 karayolu için geliştirilmiş, IoT sensör tabanlı WSN simülasyonu ve gerçek zamanlı **Makine Öğrenmesi (J48/Naive Bayes)** sınıflandırma sistemi içeren erken uyarı projesi. (Java)
-
-**[🔗 Blokzincir Tabanlı Güvenli Oylama Sistemi](https://github.com/tugcemankal/blokchain-tabanli-guvenli-oylama-sistemi)**  
-**Solidity** ve akıllı kontratlar kullanılarak manipülasyona kapalı, şeffaf ve dağıtık bir oylama altyapısı. Oyların güvenliği kriptografik algoritmalarla sağlandı.
-
-**[👁️ VLM ile Göz Hastalıkları Sınıflandırma](https://github.com/tugcemankal/vlm-ile-goz-hastaliklari-medikal-goruntu-siniflandirma)**  
-Tıbbi görüntülerin sınıflandırılması üzerine yapay zeka / bilgisayarlı görü (Computer Vision) destekli medikal görüntüleme projesi. (Python)
-
-**[🌐 Ağ Mimarisi ve Simülasyon Projeleri](https://github.com/tugcemankal)**  
-- **IPv4 Yönlendirici (Router):** Java ile IPv4 paket ayrıştırma ve yönlendirme algoritması.
-- **Akıllı Ağ Geçidi & Buffer Analizi:** Asenkron IoT telemetri paketlerinin Poisson Dağılımı ve Kuyruk Teorisi (Queueing Theory) ile analizi (Python).
-- **HDLC Veri Bağı Simülasyonu:** CRC hata denetimi ve bit doldurma işlemleri (Python).
-- **Fiziksel Katman Sinyal Kodlama:** NRZ-L ve Manchester hat kodlama teknikleri analizi.
-- **TCP/UDP Haberleşme:** Java Socket ile çoklu-ajan haberleşme ve dosya transferi.
-- **Kapsamlı Ağ Topolojisi:** Dinamik yönlendirme (OSPF) ve DHCP yapılandırılmış IoT entegreli Cisco Packet Tracer simülasyonu.
-
+### 🌟 Pride Board & Featured Projects
+**[💖 TYT Study Tracker Platform (PWA Web)](https://github.com/tugcemankal/tyt-takip)**  
+A magnificent study tracking system designed specifically for students and administrators, with real-time synchronization via **Firebase**. Features dark mode and advanced scheduling algorithms.
+**[🚗 Smart Road Monitoring System (IoT & ML)](https://github.com/tugcemankal/akilli-yol-izleme-sistemi)**  
+An early warning project developed for the D400 highway, featuring IoT sensor-based WSN simulation and real-time **Machine Learning (J48/Naive Bayes)** classification. (Java)
+**[🔗 Blockchain-Based Secure Voting System](https://github.com/tugcemankal/blokchain-tabanli-guvenli-oylama-sistemi)**  
+A tamper-proof, transparent, and distributed voting infrastructure built with **Solidity** and smart contracts. Vote integrity is ensured through cryptographic algorithms.
+**[👁️ Eye Disease Classification with VLM](https://github.com/tugcemankal/vlm-ile-goz-hastaliklari-medikal-goruntu-siniflandirma)**  
+An AI / Computer Vision-powered medical imaging project for classifying eye diseases from medical images. (Python)
+**[🌐 Network Architecture & Simulation Projects](https://github.com/tugcemankal)**  
+- **IPv4 Router:** IPv4 packet parsing and routing algorithm implemented in Java.
+- **Smart Gateway & Buffer Analysis:** Analysis of asynchronous IoT telemetry packets using Poisson Distribution and Queueing Theory (Python).
+- **HDLC Data Link Simulation:** CRC error checking and bit stuffing operations (Python).
+- **Physical Layer Signal Encoding:** Analysis of NRZ-L and Manchester line coding techniques.
+- **TCP/UDP Communication:** Multi-agent communication and file transfer using Java Sockets.
+- **Comprehensive Network Topology:** IoT-integrated Cisco Packet Tracer simulation with dynamic routing (OSPF) and DHCP configuration.
 ---
-
-### 📊 Github İstatistiklerim
-
+### 📊 GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tugcemankal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Tuğçe's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugcemankal&theme=tokyonight&hide_border=true&background=0D1117" alt="Tuğçe's GitHub Streak" width="48%" />
 </div>
-
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=tugcemankal&color=7c3aed&style=flat-square&label=Profilime+Bakan+Harika+Insanlar" alt="Ziyaretçi Sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=tugcemankal&color=7c3aed&style=flat-square&label=Amazing+People+Who+Visited+My+Profile" alt="Visitor Counter" />
 </div>
