@@ -38,7 +38,7 @@ As a **Computer Engineer**, I use coding not just to solve problems, but also to
 **EDUCATION**
 * **BURDUR MEHMET AKİF ERSOY UNIVERSITY (MAKÜ)**, Burdur, Türkiye
   * Computer Engineering Bachelor's Program
-  * GPA: 2.90/4.0 | September 2023 - June 2027 (Expected)
+  * GPA: 2.97/4.0 | September 2023 - June 2027 (Expected)
 * **SERIK SCIENCE HIGH SCHOOL**, Antalya, Türkiye
   * September 2018 - June 2022
 * **Relevant Courses:** Data Structures and Algorithms, Object-Oriented Programming, Software Engineering, Database Management Systems, Computer Networks, Introduction to Information Security, Introduction to Artificial Intelligence, Introduction to Data Mining, Microprocessors, Circuit Theory, Digital System Design.
@@ -95,7 +95,7 @@ I am an engineering candidate continuing my undergraduate education in the Compu
 **EĞİTİM**
 * **BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ (MAKÜ)**, Burdur, Türkiye
   * Bilgisayar Mühendisliği Lisans Programı
-  * GNO: 2,90/4.0 | Eylül 2023 - Haziran 2027 (Beklenen)
+  * GNO: 2,97/4.0 | Eylül 2023 - Haziran 2027 (Beklenen)
 * **SERİK FEN LİSESİ**, Antalya, Türkiye
   * Eylül 2018 - Haziran 2022
 * **İlgili Dersler:** Veri Yapıları ve Algoritmalar, Nesneye Dayalı Programlama, Yazılım Mühendisliği, Veri Tabanı Yönetim Sistemleri, Bilgisayar Ağları, Bilgi Güvenliğine Giriş, Yapay Zekaya Giriş, Veri Madenciliğine Giriş, Mikroişlemciler, Devre Teorisi, Sayısal Sistem Tasarımı.
